@@ -20,7 +20,6 @@ A simple and powerful Electron-based screen recording application that captures 
 - **Node.js** – Backend logic  
 - **JavaScript** – Application logic  
 - **UUID** – To generate unique folder names  
-- **File System (fs)** – To handle storage locally
 
 ## ⚠️ Limitations
 
@@ -33,12 +32,11 @@ While this screen recorder provides essential recording functionality, there are
 - 🧪 **No Editing Tools**: There's no support for trimming, cropping, or editing the recordings post-capture.
 
 
-
 ## 🧪 Setup Instructions
 
 ```bash
 # Clone the repository
-git clone https://github.com/NandiniBure/record-screen.git
+git clone https://github.com/NandiniBure/electron-screen-recorder.git
 
 # Install dependencies
 npm install
