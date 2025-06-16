@@ -4,7 +4,6 @@ A simple and powerful Electron-based screen recording application that captures 
 
 ## 📽️ Demo
  https://drive.google.com/file/d/1QA0r9z62s2mHm-p9zBPHqDGHsC6VvVkW/view?usp=sharing
-> 🔁 Replace the `your-video-id-here` in the link above with your actual YouTube video ID.
 
 ## 🚀 Features
 
