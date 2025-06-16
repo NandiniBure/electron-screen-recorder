@@ -3,7 +3,7 @@
 A simple and powerful Electron-based screen recording application that captures screen, webcam, and combined video. All recordings are saved with a UUID-named folder structure, and a completion UI allows users to access the saved folder with ease.
 
 ## 📽️ Demo
- https://drive.google.com/file/d/1TAxnHZ1WyBo2-UCzPqImcYbjsQCmFIAG/view?usp=sharing
+ https://drive.google.com/file/d/1QA0r9z62s2mHm-p9zBPHqDGHsC6VvVkW/view?usp=sharing
 > 🔁 Replace the `your-video-id-here` in the link above with your actual YouTube video ID.
 
 ## 🚀 Features
